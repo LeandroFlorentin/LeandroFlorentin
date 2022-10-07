@@ -47,10 +47,9 @@
 <h5>Contacto<h5>
 <p>Para contactarme dejo los siguientes medios, tengan total confianza en contactarme, siempre intentare responder todos los mensajes.</p>
 
-<div>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/leandro-florentin/">Linkedin</a></li>
-        <li><a href="mailto:leandro.florentin@hotmail.com">Correo</a><li>
-    </ul>
-</div>
+<ul>
+    <li><a href="https://www.linkedin.com/in/leandro-florentin/">Linkedin</a></li>
+    <li><a href="mailto:leandro.florentin@hotmail.com">Correo</a><li>
+</ul>
+
 
