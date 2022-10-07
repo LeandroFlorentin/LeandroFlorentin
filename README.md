@@ -36,9 +36,13 @@
 </div>
 
 <h5>Futuros intereses tecnologicos</h5>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="30px" height="30px"/>
-<p>React native</p>
-<img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
+<div>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="30px" height="30px"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/laravel_logo_icon_170314.png" width="30px" height="30px"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" width="30px" height="30px"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vue_icon_130078.png" width="30px" height="30px"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="30px" height="30px"/>
+</div>
 
 <h5>Contacto<h5>
 <p>Para contactarme dejo los siguientes medios, tengan total confianza en contactarme, siempre intentare responder todos los mensajes.</p>
