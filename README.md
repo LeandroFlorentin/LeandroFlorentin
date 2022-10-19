@@ -19,6 +19,9 @@
     <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" width="30px" height="30px"/>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" width="30px" height="30px" />
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="30px" height="30px"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" width="30px" height="30px"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_logo_icon_146348.png" width="30px" height="30px"/>
 </div>
 <h5>IDEs<h5>
 <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
@@ -27,13 +30,6 @@
 
 <h5>Proyectos y estudios<h5>
 <p>Actualmente termine mi proyecto de Ecommerce en coderHouse https://proyecto-lg-ce75.vercel.app/ y estoy a escazos días de iniciar el PI de soyHenry, en el cual tendre que realizar una pagina combinando Front-End con Back-End utilizando PostgreSQL como base de datos.</p>
-
-<div>
-    <h5>Actualmente aprendiendo</h5>
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="30px" height="30px"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" width="30px" height="30px"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_logo_icon_146348.png" width="30px" height="30px"/>
-</div>
 
 <h5>Futuros intereses tecnologicos</h5>
 <div>
