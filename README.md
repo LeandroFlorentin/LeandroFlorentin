@@ -29,9 +29,7 @@
         <img alt="html" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />         
     </div>
 <h5>IDEs<h5>
-<img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
-<h5>Softwares</h5>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" width="30px" height="30px"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white" width="30px" height="30px"/>
     
 <h3>Estudios</h3>
     <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End y mientras realizaba el curso de React.js de CoderHouse en paralelo tambien realize el bootcamp de desarrollador Full Stack de SoyHenry.</p>
