@@ -1,4 +1,4 @@
-id {
+#header {
     color:red;
 }
 <div id="header" align="center">
