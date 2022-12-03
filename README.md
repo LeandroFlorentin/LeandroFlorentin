@@ -31,7 +31,7 @@
 <h3>Estudios</h3>
     <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End y mientras realizaba el curso de React.js de CoderHouse en paralelo tambien realize el bootcamp de desarrollador Full Stack de SoyHenry.</p>
 
-<h3>Proyectos<h3>
+<h5>Proyectos<h5>
  
    <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar información sobre las plantas y comprar productos para estas.</label></br>
     <a href="https://plantango.vercel.app/">Ver proyecto grupal Henry</a></br>
