@@ -10,7 +10,6 @@
     <h3>Sobre mi</h3>
         <p>Soy un desarrolador Full Stack, egresado tanto del bootcamp de SoyHenry de desarrollador Full Stack, como de la carrera de desarrollador Front End de CoderHouse.</p>
 </div>
-<div>
     <h5>Habilidades técnicas</h5>
     <div>
         <img src='https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white' alt='React'/>
@@ -27,8 +26,7 @@
         <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-4c2882?style=flat-square&logo=bootstrap&logoColor=white" />
         <img alt="saas" src="https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass&logoColor=white" />
         <img alt="css" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
-        <img alt="html" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />
-               
+        <img alt="html" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />         
     </div>
 <h5>IDEs<h5>
 <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
