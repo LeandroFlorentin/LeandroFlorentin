@@ -42,10 +42,10 @@
    <label>Este proyecto es una simulacion de una pagina de venta de televisores LG.</label></br>
    <a href="https://proyecto-lg-ce75.vercel.app/">Ver proyecto LG CoderHouse</a></br>
    
-    <label>El proyecto GitHub, en donde podras buscar perfiles de GitHub mediante el consumo de una API.</label></br>
+   <label>El proyecto GitHub, en donde podras buscar perfiles de GitHub mediante el consumo de una API.</label></br>
    <a href="https://github-proyect-ten.vercel.app/">Ver proyecto GitHub</a></br>
    
-    <label>Por ultimo mi portafolio, en donde podras tener un mayor acercamiento a mi y mis habilidades.</label></br>
+   <label>Por ultimo mi portafolio, en donde podras tener un mayor acercamiento a mi y mis habilidades.</label></br>
    <a href="https://portafolio-leandro-florentin.vercel.app/">Ver portafolio</a>
 
 
