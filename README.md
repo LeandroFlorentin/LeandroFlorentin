@@ -12,17 +12,17 @@
 </div>
 <div>
     <h5>Lenguajes</h5>
-    <img src="https://cdn-icons-png.flaticon.com/512/3128/3128323.png" width="30px" height="30px"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30px" height="30px"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="30px" height="30px"/>
     <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" width="30px" height="30px"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" width="30px" height="30px" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px"/>
     <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_logo_icon_146348.png" width="30px" height="30px"/>
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" width="30px" height="30px" />
     <img src="https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/maaterial.png?alt=media&token=5cdd4db1-808a-4943-b933-fc391f84a608" width="30px" height="30px"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30px" height="30px"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/3128/3128323.png" width="30px" height="30px"/>
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="30px" height="30px"/>
 </div>
 <h5>IDEs<h5>
 <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
