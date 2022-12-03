@@ -36,7 +36,7 @@
    <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar informacion sobre las plantas y comprar productos para estas.</label></br>
     <a href="https://plantango.vercel.app/">Ver proyecto grupal Henry</a></br>
     
-   <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tu juegos favorito mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
+   <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tus juegos favoritos mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
    <a href="https://juegosapp.vercel.app/">Ver proyecto individual Henry</a></br>
    
    <label>Este proyecto es una simulacion de una pagina de venta de televisores LG.</label></br>
