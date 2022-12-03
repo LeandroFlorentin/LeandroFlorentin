@@ -57,7 +57,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="30px" height="30px"/>
 </div>
 
-<h3>Contacto<h3>
+<h5>Contacto<h5>
 <p>Para contactarme dejo los siguientes medios, tengan total confianza en contactarme, siempre intentare responder todos los mensajes.</p>
 
     
