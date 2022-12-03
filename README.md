@@ -11,10 +11,13 @@
         <p>Soy un desarrolador Full Stack, egresado tanto del bootcamp de SoyHenry de desarrollador Full Stack, como de la carrera de desarrollador Front End de CoderHouse.</p>
 </div>
 <div>
+    <h5>Habilidades técnicas</h5>
     <div>
-            <h5>Lenguajes:</h5>
         <img src='https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white' alt='React'/>
         <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+        <img alt="express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img alt="sequelize" src="https://img.shields.io/badge/-Sequelize-039be5?style=flat-square&logo=sequelize&logoColor=0a497b" />
     </div>
 </div>
 <h5>IDEs<h5>
