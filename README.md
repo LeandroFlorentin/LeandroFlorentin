@@ -8,7 +8,7 @@
 </p>
 <div>
     <h5>Sobre mi</h5>
-        <p>Soy un desarrolador Front-End, estudiando para ser desarrolador Full-Stack, en soyHenry</p>
+        <p>Soy un desarrolador Full Stack, actualmente termine el bootcamp de SoyHenry.</p>
 </div>
 <div>
     <h5>Lenguajes</h5>
@@ -29,7 +29,16 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" width="30px" height="30px"/>
 
 <h5>Proyectos y estudios<h5>
-<p>Actualmente termine mi proyecto de Ecommerce en coderHouse https://proyecto-lg-ce75.vercel.app/ y estoy a escazos días de iniciar el PI de soyHenry, en el cual tendre que realizar una pagina combinando Front-End con Back-End utilizando PostgreSQL como base de datos.</p>
+<p>Proyecto Grupal Henry, una pagina donde vas a poder informarte de todas las plantas en Argentina y vas a poder comprar productos para tus plantas.</p>
+    <a href:'https://plantango.vercel.app/'>Ver proyecto grupal</a>
+<p>Proyecto individual Henry, una app de videojuegos en donde vas a poder encontrar el videojuego uqe mas te gusta medianteun variedad de filtros y hasta podes crear tu propio juego.</p>
+    <a href:'https://frontjuegos.vercel.app/'>Ver proyecto individual</a>
+<p>Proyectos LG CoderHouse, una pagina de simulación de venta de televisores LG, en donde tambien vas a poder encontrar multiples televisores.</p>
+    <a href:'https://proyecto-lg-ce75.vercel.app/'>Ver proyecto LG</a>
+<p>Proyecto GitHub, un proyecto en donde vas a poder buscar perfiles de GitHub.</p>
+    <a href:'https://github-proyect-ten.vercel.app/'>Ver proyecto GitHub</a>
+<p>Portafolio, pagina personal donde muestro quien soy y que hago.</p>
+    <a href:'https://portafolio-leandro-florentin.vercel.app/'>Ver portafolio</a>
 
 <h5>Futuros intereses tecnologicos</h5>
 <div>
