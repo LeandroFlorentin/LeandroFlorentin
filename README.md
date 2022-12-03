@@ -51,10 +51,16 @@
     </div>
     <div>
         <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="30px" height="30px"/>
-        <p>Material UI</p>
+        <p>Bootstrap</p>
     </div>
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30px" height="30px"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/3128/3128323.png" width="30px" height="30px"/>
+    <div>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30px" height="30px"/>
+        <p>CSS3</p>
+    </div>
+    <div>
+        <img src="https://cdn-icons-png.flaticon.com/512/3128/3128323.png" width="30px" height="30px"/>
+         <p>HTML5</p>
+    </div>
     </div>
 </div>
 <h5>IDEs<h5>
