@@ -1,7 +1,9 @@
-#header {
-    color:red;
-}
 <div id="header" align="center">
+    <style>
+        #header{
+            color: red;
+        }
+    </style>
     <h1>Hola, soy Leandro Florentín👋</h1>
 </div>
 <p align="center">
