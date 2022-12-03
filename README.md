@@ -18,7 +18,6 @@
         <img alt="express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img alt="sequelize" src="https://img.shields.io/badge/-Sequelize-039be5?style=flat-square&logo=sequelize&logoColor=0a497b" />
         <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-039be5?style=flat-square&logo=postgresql&logoColor=0a497b" />
-        <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-039be5?style=flat-square&logo=postgresql&logoColor=0a497b" />
         <img alt="javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white" />
         <img alt="github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
