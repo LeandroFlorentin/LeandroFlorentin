@@ -27,8 +27,11 @@
 <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
 <h5>Softwares</h5>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" width="30px" height="30px"/>
+    
+<h5>Estudios</h5>
+    <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End, para luego mientras realizaba el curso de React.js de CoderHouse en paralelo realizar el bootcamp de desarrollador Full Stack de SoyHenry.</p>
 
-<h5>Proyectos y estudios<h5>
+<h5>Proyectos<h5>
  <ul>
    <li><a href="https://plantango.vercel.app/">Proyecto Grupal Henry</a></li>
    <li><a href="https://juegosapp.vercel.app/">Proyecto individual Henry</a></li>
