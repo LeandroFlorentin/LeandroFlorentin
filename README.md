@@ -13,7 +13,7 @@
 <div>
     <h5>Lenguajes</h5>
     <div display="flex">
-    <div>
+    <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
         <p>React.js</p>
     </div>
