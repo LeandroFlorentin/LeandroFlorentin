@@ -7,8 +7,8 @@
 <a href="mailto:leandro.florentin@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 <div>
-    <h5>Sobre mi</h5>
-        <p>Soy un desarrolador Full Stack, egresado tanto del bootcamp de SoyHenry como de la carrera de desarrollador Front End de CoderHouse.</p>
+    <h3>Sobre mi</h3>
+        <p>Soy un desarrolador Full Stack, egresado tanto del bootcamp de SoyHenry de desarrollador Full Stack, como de la carrera de desarrollador Front End de CoderHouse.</p>
 </div>
 <div>
     <h5>Lenguajes</h5>
@@ -29,9 +29,9 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" width="30px" height="30px"/>
     
 <h5>Estudios</h5>
-    <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End, para luego mientras realizaba el curso de React.js de CoderHouse en paralelo realizar el bootcamp de desarrollador Full Stack de SoyHenry.</p>
+    <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End y mientras realizaba el curso de React.js de CoderHouse en paralelo tambien realize el bootcamp de desarrollador Full Stack de SoyHenry.</p>
 
-<h5>Proyectos<h5>
+<h3>Proyectos<h3>
  
    <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar informacion sobre las plantas y comprar productos para estas.</label></br>
     <a href="https://plantango.vercel.app/">Ver proyecto grupal Henry</a></br>
@@ -49,7 +49,7 @@
    <a href="https://portafolio-leandro-florentin.vercel.app/">Ver portafolio</a>
 
 
-<h5>Futuros intereses tecnologicos</h5>
+<h3>Futuros intereses tecnologicos</h3>
 <div>
     <img src="https://img.icons8.com/color/512/nestjs.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" width="30px" height="30px"/>
@@ -57,7 +57,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="30px" height="30px"/>
 </div>
 
-<h5>Contacto<h5>
+<h3>Contacto<h3>
 <p>Para contactarme dejo los siguientes medios, tengan total confianza en contactarme, siempre intentare responder todos los mensajes.</p>
 
     
