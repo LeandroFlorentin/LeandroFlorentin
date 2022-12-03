@@ -29,11 +29,13 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" width="30px" height="30px"/>
 
 <h5>Proyectos y estudios<h5>
-<p>Proyecto Grupal Henry, una pagina donde vas a poder informarte de todas las plantas en Argentina y vas a poder comprar productos para tus plantas    <a href:'https://plantango.vercel.app/'>Ver proyecto grupal.</a></p>
-<p>Proyecto individual Henry, una app de videojuegos en donde vas a poder encontrar el videojuego uqe mas te gusta medianteun variedad de filtros y hasta podes crear tu propio juego <a href:'https://frontjuegos.vercel.app/'>Ver proyecto individual.</a></p>
-<p>Proyectos LG CoderHouse, una pagina de simulación de venta de televisores LG, en donde tambien vas a poder encontrar multiples televisores    <a href:'https://proyecto-lg-ce75.vercel.app/'>Ver proyecto LG</a></p>  
-<p>Proyecto GitHub, un proyecto en donde vas a poder buscar perfiles de GitHub,<a href:'https://github-proyect-ten.vercel.app/'>Ver proyecto GitHub.</a></p>
-<p>Portafolio, pagina personal donde muestro quien soy y que hago <a href:'https://portafolio-leandro-florentin.vercel.app/'>Ver portafolio.</a></p>
+ <ul>
+   <li><a href="https://plantango.vercel.app/">Proyecto Grupal Henry</a></li>
+   <li><a href="https://juegosapp.vercel.app/">Proyecto individual Henry</a></li>
+   <li><a href="https://proyecto-lg-ce75.vercel.app/">Proyecto LG CoderHouse</a></li>
+   <li><a href="https://github-proyect-ten.vercel.app/">Proyecto GitHub</a></li>
+   <li><a href="https://portafolio-leandro-florentin.vercel.app/">Ver portafolio</a></li>
+</ul>
 
 <h5>Futuros intereses tecnologicos</h5>
 <div>
