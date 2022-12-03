@@ -28,12 +28,12 @@
 <h5>Softwares</h5>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_git_icon_130581.png" width="30px" height="30px"/>
     
-<h5>Estudios</h5>
+<h3>Estudios</h3>
     <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End y mientras realizaba el curso de React.js de CoderHouse en paralelo tambien realize el bootcamp de desarrollador Full Stack de SoyHenry.</p>
 
 <h3>Proyectos<h3>
  
-   <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar informacion sobre las plantas y comprar productos para estas.</label></br>
+   <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar información sobre las plantas y comprar productos para estas.</label></br>
     <a href="https://plantango.vercel.app/">Ver proyecto grupal Henry</a></br>
     
    <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tus juegos favoritos mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
@@ -49,7 +49,7 @@
    <a href="https://portafolio-leandro-florentin.vercel.app/">Ver portafolio</a>
 
 
-<h3>Futuros intereses tecnologicos</h3>
+<h3>Futuros intereses tecnológicos</h3>
 <div>
     <img src="https://img.icons8.com/color/512/nestjs.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" width="30px" height="30px"/>
