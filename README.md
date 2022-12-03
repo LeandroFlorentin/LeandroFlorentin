@@ -12,7 +12,7 @@
 </div>
 <div>
     <h5>Lenguajes</h5>
-    <div direction='row'>
+    <div flexDirection='row' display='flex'>
     <div width="50px">
         <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
         <p>React.js</p>
