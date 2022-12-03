@@ -30,7 +30,6 @@
         <img alt="html" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />
                
     </div>
-</div>
 <h5>IDEs<h5>
 <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
 <h5>Softwares</h5>
