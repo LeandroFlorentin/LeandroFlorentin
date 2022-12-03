@@ -12,7 +12,6 @@
 </div>
 <div>
     <h5>Lenguajes</h5>
-    <div>
     <a>
         <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
         <p>React.js</p>
@@ -61,7 +60,6 @@
         <img src="https://cdn-icons-png.flaticon.com/512/3128/3128323.png" width="30px" height="30px"/>
          <p>HTML5</p>
     </a>
-    </div>
 </div>
 <h5>IDEs<h5>
 <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
