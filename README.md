@@ -1,11 +1,11 @@
 <div id="header" align="center">
+    <h1>Hola, soy Leandro Florentín👋</h1>
+</div>
     <style>
         #header{
             color: red;
         }
     </style>
-    <h1>Hola, soy Leandro Florentín👋</h1>
-</div>
 <p align="center">
 <a href="https://www.linkedin.com/in/leandro-florentin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://www.codewars.com/users/Leandro5622"><img src="https://img.shields.io/badge/-CodeWars-121216?style=for-the-badge&logo=CodeWars&logoColor=red"/> </a>
