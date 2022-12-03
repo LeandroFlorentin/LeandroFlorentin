@@ -12,54 +12,9 @@
 </div>
 <div>
     <h5>Lenguajes</h5>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
-        <p>React.js</p>
-    </a>
-    <a>
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" width="30px" height="30px"/>
-        <p>Redux</p>
-    </a>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px"/>
-        <p>Javascript</p>
-    </a>
-    <a>
-        <img src="https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/Rexpress.png?alt=media&token=00cc6209-b5a6-4060-a6f1-a90432098fbe" width="30px" height="30px"/>
-        <p>Express</p>
-    </a>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="30px" height="30px"/>
-        <p>NodeJS</p>
-    </a>
-    <a>
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_logo_icon_146348.png" width="30px" height="30px"/>
-        <p>Sequelize</p>
-    </a>
-    <a>
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" width="30px" height="30px"/>
-        <p>PostgreSQL</p>
-    </a>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" width="30px" height="30px" />
-        <p>Sass</p>
-    </a>
-    <a>
-    <img src="https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/maaterial.png?alt=media&token=5cdd4db1-808a-4943-b933-fc391f84a608" width="30px" height="30px"/>
-        <p>Material UI</p>
-    </a>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="30px" height="30px"/>
-        <p>Bootstrap</p>
-    </a>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30px" height="30px"/>
-        <p>CSS3</p>
-    </a>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/512/3128/3128323.png" width="30px" height="30px"/>
-         <p>HTML5</p>
-    </a>
+    <div>
+        <img src='https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white' alt='React'/>
+    </div>
 </div>
 <h5>IDEs<h5>
 <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
