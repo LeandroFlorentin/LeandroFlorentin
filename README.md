@@ -12,12 +12,12 @@
 </div>
 <div>
     <h5>Lenguajes</h5>
-    <div display="flex">
-    <div align="center">
+    <div>
+    <div width="50px">
         <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
         <p>React.js</p>
     </div>
-    <div>
+    <div width="50px">
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" width="30px" height="30px"/>
         <p>Redux</p>
     </div>
