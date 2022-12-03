@@ -17,9 +17,22 @@
         <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" width="30px" height="30px"/>
         <p>React.js</p>
     </div>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" width="30px" height="30px"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="30px" height="30px"/>
+    <div>
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/redux_original_logo_icon_146365.png" width="30px" height="30px"/>
+        <p>Redux</p>
+    </div>
+    <div>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px"/>
+        <p>NodeJS</p>
+    </div>
+    <div>
+        <img src="https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/Rexpress.png?alt=media&token=00cc6209-b5a6-4060-a6f1-a90432098fbe" width="30px" height="30px"/>
+        <p>Express</p>
+    </div>
+    <div>
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="30px" height="30px"/>
+        <p>Sequelize</p>
+    </div>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_logo_icon_146348.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" width="30px" height="30px"/>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" width="30px" height="30px" />
