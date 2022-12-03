@@ -35,12 +35,16 @@
  
    <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar informacion sobre las plantas y comprar productos para estas.</label></br>
     <a href="https://plantango.vercel.app/">Ver proyecto grupal Henry</a></br>
+    
    <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tu juegos favorito mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
    <a href="https://juegosapp.vercel.app/">Ver proyecto individual Henry</a></br>
+   
    <label>Este proyecto es una simulacion de una pagina de venta de televisores LG.</label></br>
-   <a href="https://proyecto-lg-ce75.vercel.app/">Proyecto LG CoderHouse</a></br>
+   <a href="https://proyecto-lg-ce75.vercel.app/">Ver proyecto LG CoderHouse</a></br>
+   
     <label>El proyecto GitHub, en donde podras buscar perfiles de GitHub mediante el consumo de una API.</label></br>
-   <a href="https://github-proyect-ten.vercel.app/">Proyecto GitHub</a></br>
+   <a href="https://github-proyect-ten.vercel.app/">Ver proyecto GitHub</a></br>
+   
     <label>Por ultimo mi portafolio, en donde podras tener un mayor acercamiento a mi y mis habilidades.</label></br>
    <a href="https://portafolio-leandro-florentin.vercel.app/">Ver portafolio</a>
 
