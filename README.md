@@ -22,7 +22,7 @@
     <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_plain_wordmark_logo_icon_146390.png" width="30px" height="30px"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/sequelize_original_logo_icon_146348.png" width="30px" height="30px"/>
-    <img src="https://th.bing.com/th/id/OIP.OeNGMhTpw_Jwb5daOmzx0wAAAA?pid=ImgDet&rs=1" width="30px" height="30px"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/pagina-lg-simulacion.appspot.com/o/maaterial.png?alt=media&token=5cdd4db1-808a-4943-b933-fc391f84a608" width="30px" height="30px"/>
 </div>
 <h5>IDEs<h5>
 <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="30px" height="30px"/>
