@@ -48,11 +48,3 @@
    <li><a href="https://www.linkedin.com/in/leandro-florentin/">Linkedin</a></li>
    <li><a href="mailto:leandro.florentin@hotmail.com">Correo</a></li>
 </ul>
-    
-    <style>
-        #header{
-            color: red;
-        }
-    </style>
-
-
