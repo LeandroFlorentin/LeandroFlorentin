@@ -8,7 +8,7 @@
 </p>
 <div>
     <h5>Sobre mi</h5>
-        <p>Soy un desarrolador Full Stack, actualmente termine el bootcamp de SoyHenry.</p>
+        <p>Soy un desarrolador Full Stack, egresado tanto del bootcamp de SoyHenry como de la carrera de desarrollador Front End de CoderHouse.</p>
 </div>
 <div>
     <h5>Lenguajes</h5>
