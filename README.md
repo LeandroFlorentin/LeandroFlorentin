@@ -32,14 +32,10 @@
     <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End, para luego mientras realizaba el curso de React.js de CoderHouse en paralelo realizar el bootcamp de desarrollador Full Stack de SoyHenry.</p>
 
 <h5>Proyectos<h5>
- <ul>
+ 
    <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar informacion sobre las plantas y comprar productos para estas.</label>
-   <li><a href="https://plantango.vercel.app/">Ver proyecto grupal Henry</a></li>
-   <li><a href="https://juegosapp.vercel.app/">Proyecto individual Henry</a></li>
-   <li><a href="https://proyecto-lg-ce75.vercel.app/">Proyecto LG CoderHouse</a></li>
-   <li><a href="https://github-proyect-ten.vercel.app/">Proyecto GitHub</a></li>
-   <li><a href="https://portafolio-leandro-florentin.vercel.app/">Ver portafolio</a></li>
-</ul>
+   <a href="https://plantango.vercel.app/">Ver proyecto grupal Henry</a>
+
 
 <h5>Futuros intereses tecnologicos</h5>
 <div>
