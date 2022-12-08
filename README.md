@@ -37,9 +37,6 @@
     <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End y mientras realizaba el curso de React.js de CoderHouse en paralelo tambien realize el bootcamp de desarrollador Full Stack de SoyHenry.</p>
 
 <h5>Proyectos<h5>
- 
-   <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar información sobre las plantas y comprar productos para estas.</label></br>
-    <a href="https://plantango.vercel.app/" target='_blank'>Ver proyecto grupal Henry</a></br>
     
    <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tus juegos favoritos mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
    <a href="https://juegosapp.vercel.app/" target='_blank'>Ver proyecto individual Henry</a></br>
@@ -52,6 +49,9 @@
    
    <label>Por ultimo mi portafolio, en donde podras tener un mayor acercamiento a mi y mis habilidades.</label></br>
    <a href="https://portafolio-leandro-florentin.vercel.app/" target='_blank'>Ver portafolio</a>
+   
+    <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar información sobre las plantas y comprar productos para estas.</label></br>
+    <a href="https://plantango.vercel.app/" target='_blank'>Ver proyecto grupal Henry</a></br>
 
 
 <h3>Futuros intereses tecnológicos</h3>
