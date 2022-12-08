@@ -40,7 +40,6 @@
     
    <label>Por ultimo mi portafolio, en donde podras tener un mayor acercamiento a mi y mis habilidades.</label></br>
    <a href="https://portafolio-leandro-florentin.vercel.app/" target='_blank'>Ver portafolio</a></br>
-    <div height=20></div>
     
    <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tus juegos favoritos mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
    <a href="https://frontjuegos.vercel.app/" target='_blank'>Ver proyecto individual Henry</a></br>
