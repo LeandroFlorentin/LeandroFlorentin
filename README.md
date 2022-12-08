@@ -50,7 +50,7 @@
    <label>Por ultimo mi portafolio, en donde podras tener un mayor acercamiento a mi y mis habilidades.</label></br>
    <a href="https://portafolio-leandro-florentin.vercel.app/" target='_blank'>Ver portafolio</a>
    
-    <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar información sobre las plantas y comprar productos para estas.</label></br>
+   <label>En el proyecto grupal vas a poder ver una pagina en donde vas a poder buscar información sobre las plantas y comprar productos para estas.</label></br>
     <a href="https://plantango.vercel.app/" target='_blank'>Ver proyecto grupal Henry</a></br>
 
 
