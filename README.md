@@ -39,7 +39,7 @@
 <h5>Proyectos<h5>
     
    <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tus juegos favoritos mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
-   <a href="https://juegosapp.vercel.app/" target='_blank'>Ver proyecto individual Henry</a></br>
+   <a href="https://frontjuegos.vercel.app/" target='_blank'>Ver proyecto individual Henry</a></br>
    
    <label>Este proyecto es una simulacion de una pagina de venta de televisores LG.</label></br>
    <a href="https://proyecto-lg-ce75.vercel.app/" target='_blank'>Ver proyecto LG CoderHouse</a></br>
