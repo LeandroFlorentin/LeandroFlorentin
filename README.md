@@ -45,7 +45,7 @@
    <a href="https://frontjuegos.vercel.app/" target='_blank'>Ver proyecto individual Henry</a></br>
    
    <label>Este proyecto es una simulacion de una pagina de venta de televisores LG.</label></br>
-   <a href="https://proyecto-lg-ce75.vercel.app/" target='_blank'>Ver proyecto LG CoderHouse</a></br>
+   <a href="https://proyecto-lg-rang.vercel.app/" target='_blank'>Ver proyecto LG CoderHouse</a></br>
    
    <label>El proyecto GitHub, en donde podras buscar perfiles de GitHub mediante el consumo de una API.</label></br>
    <a href="https://github-proyect-ten.vercel.app/" target='_blank'>Ver proyecto GitHub</a></br>
