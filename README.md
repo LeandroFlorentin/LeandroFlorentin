@@ -32,35 +32,6 @@
     </div>
 <h5>IDEs<h5>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    
-<h3>Estudios</h3>
-    <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End y mientras realizaba el curso de React.js de CoderHouse en paralelo tambien realize el bootcamp de desarrollador Full Stack de SoyHenry.</p>
-
-<h5>Proyectos<h5>
-    
-   <label>Por ultimo mi portafolio, en donde podras tener un mayor acercamiento a mi y mis habilidades.</label></br>
-   <a href="https://portafolio-leandro-florentin.vercel.app/" target='_blank'>Ver portafolio</a></br>
-    
-   <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tus juegos favoritos mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
-   <a href="https://frontjuegos.vercel.app/" target='_blank'>Ver proyecto individual Henry</a></br>
-   
-   <label>En este proyecto vas a poder encontrar un listado de personajes de LOL, podras agregarlos a favoritos y filtrarlos.</label></br>
-   <a href="https://front-lol.vercel.app/" target='_blank'>Ver proyecto League of legends</a></br>
-   
-   <label>Este proyecto es una simulacion de una pagina de venta de televisores LG.</label></br>
-   <a href="https://proyecto-lg-rang.vercel.app/" target='_blank'>Ver proyecto LG CoderHouse</a></br>
-   
-   <label>El proyecto GitHub, en donde podras buscar perfiles de GitHub mediante el consumo de una API.</label></br>
-   <a href="https://github-proyect-ten.vercel.app/" target='_blank'>Ver proyecto GitHub</a></br>
-
-
-<h3>Futuros intereses tecnológicos</h3>
-<div>
-    <img src="https://img.icons8.com/color/512/nestjs.png" width="30px" height="30px"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" width="30px" height="30px"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vue_icon_130078.png" width="30px" height="30px"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="30px" height="30px"/>
-</div>
 
 <h5>Contacto<h5>
 <p>Para contactarme dejo los siguientes medios, tengan total confianza en contactarme, siempre intentare responder todos los mensajes.</p>
