@@ -42,18 +42,10 @@ principalmente en el desarrollo de aplicaciones web escalables y de gran perform
     <img alt="bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&logoColor=white" />
     <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
-</div>
-<div>
-    <img src='https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white' alt='React'/>
-    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-    <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-4c2882?style=flat-square&logo=bootstrap&logoColor=white" />
     <img alt="material-ui" src="https://img.shields.io/badge/-MaterialUI-blue?style=flat-square&logo=mui&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white" />
     <img alt="saas" src="https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="css" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="html" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />    
-</div>
+    </div>
 <h5>IDEs<h5>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
